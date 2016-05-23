@@ -9,7 +9,7 @@
 | Attribute              | Default | Description                                                       |
 | ---------------------- | ------- | ----------------------------------------------------------------- |
 | min/data-min           | null    | A minimum value, never to go below.                               |
-| max/data-min           | null    | A maximum value, never to go above.                               |
+| max/data-max           | null    | A maximum value, never to go above.                               |
 | step/data-step         | 1       | How much to increment/decrement by.                               |
 | addclass/data-addclass | null    | Add a class to the container.                                     |
 | width/data-width       | null    | Set the width of the input field.                                 |
